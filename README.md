@@ -1,6 +1,6 @@
 To compile and run these example programs:
 * Open the terminal in the folder where the program you want to compile resides
-* If you war on Windows run:
+* If you are on Windows run:
 ```
 wsl
 ```
