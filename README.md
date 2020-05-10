@@ -10,7 +10,7 @@ g++ -o ex02 ex02-primitives.cpp
 ```
 * Then run it by:
 ```
-  ./ex02 
+./ex02 
 ```
 * If the example conists of multiple files (some .h and some .cpp) then compile it by doing something like this:
 ```
